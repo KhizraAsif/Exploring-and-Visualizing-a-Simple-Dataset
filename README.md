@@ -12,14 +12,6 @@
 
 This exploration will help build foundational skills in working with datasets using pandas, seaborn, and matplotlib.
 
----->RESULT:
-.Petal length and width have noticeable differences in medians across species.
-.Setosa shows very tight boxes for petal features — low spread, clear separation.
-.Sepal width for Setosa has a higher median compared to the other species.
-.A few mild outliers are visible, especially for sepal width and length.
-
-Box plots confirm the low variability in Setosa’s features and the overlap between Versicolor and Virginica.
-
 ---->CONCLUSION:
 The Iris dataset exploration clearly shows that:
 .Petal measurements (length and width) are the most useful features for distinguishing the three species.
